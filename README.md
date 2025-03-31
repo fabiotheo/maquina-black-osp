@@ -349,28 +349,6 @@ Para usar o OSP Marketing Tools, precisamos instalar algumas ferramentas básica
      ```
    - Você deverá ver o número da versão do UV
 
-3. **Instale o Node.js**
-   - O Node.js é necessário para executar o Claude Code
-   - Acesse [nodejs.org](https://nodejs.org/en/)
-   - Clique no botão de download da versão LTS (Suporte de Longo Prazo)
-   - Execute o arquivo baixado
-   - Siga as instruções na tela:
-     - Aceite os termos e condições
-     - Mantenha as configurações padrão (especialmente "Add to PATH")
-     - Clique em "Install" e aguarde
-   - Para verificar se a instalação foi bem-sucedida:
-     - Abra um novo Prompt de Comando (feche o anterior e abra um novo)
-     - Digite:
-       ```
-       node --version
-       ```
-     - Você deverá ver o número da versão do Node.js
-     - Em seguida, digite:
-       ```
-       npm --version
-       ```
-     - Você deverá ver o número da versão do NPM (gerenciador de pacotes do Node.js)
-
 **Para Mac:**
 
 1. **Instale o Homebrew (se ainda não tiver)**
@@ -411,23 +389,6 @@ Para usar o OSP Marketing Tools, precisamos instalar algumas ferramentas básica
      uv --version
      ```
    - Você deverá ver o número da versão do UV
-
-4. **Instale o Node.js**
-   - No Terminal, digite:
-     ```
-     brew install node
-     ```
-   - Aguarde a instalação ser concluída
-   - Para verificar se a instalação foi bem-sucedida, digite:
-     ```
-     node --version
-     ```
-   - Você deverá ver o número da versão do Node.js
-   - Em seguida, digite:
-     ```
-     npm --version
-     ```
-   - Você deverá ver o número da versão do NPM
 
 #### Passo 2: Configurar o OSP Marketing Tools no Claude Code
 
